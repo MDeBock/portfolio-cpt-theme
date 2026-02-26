@@ -22,7 +22,13 @@ El objetivo era crear una plataforma que no solo mostrara mis proyectos, sino qu
 
 ## 📸 Galería del Proyecto
 
-*(Nota: Aquí puedes poner la captura de los círculos de neón de tu stack y una de tus proyectos).*
+<img width="1340" height="598" alt="image" src="https://github.com/user-attachments/assets/c34feb7f-1e34-41b2-b316-eb8d17b024a2" />
+
+<img width="1358" height="607" alt="image" src="https://github.com/user-attachments/assets/a46456f3-96ce-4fc1-940f-2d0fcaa4b9ba" />
+
+<img width="1167" height="560" alt="image" src="https://github.com/user-attachments/assets/50f56f09-6abc-47ad-a60f-c19e0f425ec3" />
+
+
 
 ## 💻 Snippet Destacado: Lógica de Metadatos y Renderizado Dinámico
 
